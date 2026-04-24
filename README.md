@@ -1,6 +1,6 @@
 <!-- Readme til Kodeverket -->
 
-## <img width="2185" height="1144" alt="Screenshot_20260423_140931_Chrome" src="https://github.com/user-attachments/assets/2b569a37-cc7e-4987-9e7d-a7c3e50f2209" />
+[![Kodeverket_Logo](https://github.com/user-attachments/assets/2b569a37-cc7e-4987-9e7d-a7c3e50f2209)](https://kodeverketbergen.no)
 
 ***
 
