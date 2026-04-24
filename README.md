@@ -3,7 +3,7 @@
 [![Kodeverket_Logo](https://github.com/user-attachments/assets/2b569a37-cc7e-4987-9e7d-a7c3e50f2209)](https://kodeverketbergen.no)
 
 ***
-
+<!-- Har brukt LATEX til farge på tekst -->
 ## $${\color{blue}< \space Hvem \space er \space vi \space >}$$
 I Kodeverket Bergen står menneskelig utvikling i sentrum. Vi tilbyr en trygg arena for å hjelpe mennesker tilbake til arbeidslivet, samtidig som vi skaper kreative teknologiske løsninger. Med dedikerte utviklere og praksiskandidater designer vi digitale opplevelser som gir mening; fra unike nettsider til skreddersydde CMS-systemer. Sammen med våre kunder finner vi den beste veien mot en moderne, digital fremtid.
 
