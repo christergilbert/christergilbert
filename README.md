@@ -23,3 +23,9 @@ Vi leverer ikke bare kode. Vi skaper muligheter.
 ## $${\color{blue}< Techstack >}$$
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,typescript,vercel)](https://skillicons.dev)
+
+***
+
+## $${\color{blue}< Våre Prosjekter >}$$
+
+[![JobLoop](https://www.jobloop.no/JobloopFarge.svg)](https://jobloop.no) [![Kodehode](https://www.kodehode.no/_next/static/media/logoDesktopFarge.425f5d05.svg)](https://kodehode.no) [![Bergen Armwrestling](https://www.bergenarmwrestling.no/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogov2.8697bda2.png&w=128&q=75)](https://bergenarmwrestling.no) [![Teamwork](https://cdn.prod.website-files.com/683ed573abbd877010c17e8e/684082df72ee58239f7df7c1_logo-dark.svg)](https://teamwork.no)
