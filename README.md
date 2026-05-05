@@ -22,7 +22,7 @@ Vi leverer ikke bare kode. Vi skaper muligheter.
 
 ## $${\color{blue}< Techstack >}$$
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,typescript,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,typescript,vercel,angular,astro,css,discord,fastapi,figma,firebase,git,github,githubactions,gmail,md,nodejs,npm,powershell,py,react,sass,styledcomponents,supabase,vite,vscode,webflow,windows,wordpress)](https://skillicons.dev)
 
 ***
 
